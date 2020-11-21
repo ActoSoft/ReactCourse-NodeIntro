@@ -1,0 +1,9 @@
+{
+    "movies": [
+        { "title": "Amarte Duele", "gender": "Amor mexicano", "duration": 120 },
+        { "title": "Spiderman con Arturo", "gender": "Bizarro", "duration": 30 },
+        { "title": "Enchélate", "gender": "Adulterado", "duration": 150 },
+        { "title": "1000 días con ellas", "gender": "Emo", "duration": 1440000 },
+        { "title": "SinNombre arturo", "gender": "Quiensabe", "duration": 1 }
+    ]
+}
